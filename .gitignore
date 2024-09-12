@@ -130,3 +130,23 @@ dist
 
 
 .idea
+
+# Logs
+pnpm-debug.log*
+
+node_modules
+.DS_Store
+dist-ssr
+*.local
+
+/cypress/videos/
+/cypress/screenshots/
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

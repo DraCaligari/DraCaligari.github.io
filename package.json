@@ -4,13 +4,13 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "run-p type-check \"build-only {@}\" --",
-    "preview": "vite preview",
-    "build-only": "vite build",
-    "type-check": "vue-tsc --build --force",
-    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore",
-    "format": "prettier --write src/",
+    "dev": "Portfolio2024/node_modules/.bin/vite",
+    "build": "Portfolio2024/node_modules/.bin/run-p type-check \\\"build-only {@}\\\" --",
+    "preview": "Portfolio2024/node_modules/.bin/vite preview",
+    "build-only": "Portfolio2024/node_modules/.bin/vite build",
+    "type-check": "Portfolio2024/node_modules/.bin/vue-tsc --build --force",
+    "lint": "Portfolio2024/node_modules/.bin/eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore",
+    "format": "Portfolio2024/node_modules/.bin/prettier --write src/",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
