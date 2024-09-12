@@ -1,0 +1,184 @@
+{
+    "home": {
+        "title": "Portafolio de Tatiana García",
+        "buttons": [
+            {
+                "title": "Proyectos",
+                "description": "Apartado de proyectos"
+            },
+            {
+                "title": "Contáctame",
+                "description": "Apartado de contacto"
+            }
+        ],
+        "basics": {
+            "principal_message1": "Hola,",
+            "principal_message2": "Soy Tatiana García,",
+            "principal_message3": "Desarrolladora Full Stack",
+            "second_message": "Desarrolladora Full-stack con experiencia en aseguramiento de calidad (QA) y testing, apasionada por la tecnología y el diseño de interfaces. Con un fuerte enfoque en la experiencia de usuario y la implementación de soluciones eficientes y accesibles. Habilidades técnicas en JavaScript, Vue3, React, TypeScript, y herramientas de testing como JMeter y Jest."
+        }
+    },
+    "skills": [
+        {
+            "title": "Habilidades técnicas y herramientas",
+            "keywords": [
+                "Adobe XD",
+                "AntDesign",
+                "Axios",
+                "Bootstrap",
+                "CSS",
+                "Django",
+                "Docker",
+                "Element Plus",
+                "Express",
+                "Firebase",
+                "Figma",
+                "GCP",
+                "GeoServer",
+                "Git",
+                "HTML",
+                "JavaScript",
+                "Jest",
+                "JMeter",
+                "MapStore",
+                "MongoDB",
+                "MySQL",
+                "Next",
+                "Nuxt",
+                "NumPy",
+                "OpenLayers",
+                "Pinia",
+                "PostGreSQL",
+                "Pytest",
+                "Python",
+                "Quasar",
+                "React",
+                "Redux",
+                "REST API",
+                "SASS",
+                "Selenium",
+                "Swagger",
+                "SweetAlert2",
+                "Tailwind",
+                "TypeScript",
+                "Vim",
+                "Vite",
+                "Vue-i18n",
+                "Vue3",
+                "Vuetify",
+                "Wagtail"
+            ]
+        }
+    ],
+    "soft_skills": {
+        "title": "Habilidades blandas",
+        "skills": [
+            "Soy desarrolladora Full-stack con experiencia destacada en JavaScript, Vue3, React y TypeScript, especializada en la creación de plataformas web y APIs REST. Utilizo Git, Jest y JMeter para desarrollo y pruebas. También tengo habilidades sólidas en diseño de interfaces con HTML, CSS, SASS, Figma y Adobe XD.",
+            "Mis fortalezas incluyen comunicación efectiva, trabajo en equipo y liderazgo de proyectos. Mi formación en psicología aporta una perspectiva valiosa al análisis de la usabilidad y experiencia del usuario en productos digitales.",
+            "En mi rol anterior en el Gobierno de Monterrey, lideré la mejora de la experiencia de usuario en productos digitales municipales. Implementé soluciones tecnológicas eficientes, establecí lineamientos de diseño y supervisé pruebas de usabilidad para asegurar la calidad y accesibilidad de los sistemas desarrollados."
+        ]
+    },
+    "projects": {
+        "title": "Proyectos en los que he participado",
+        "description": "Proyectos en los que he trabajado.",
+        "projects": [
+            {
+                "title": "iD Digital Mty",
+                "description": "El servicio de identidad digital de Monterrey permite acceder con una única cuenta a todos los servicios digitales del municipio.",
+                "url": "https://id.monterrey.gob.mx/",
+                "image": "https://i.imgur.com/BGhP1S6.png",
+                "tags": [
+                    "Vue3",
+                    "TypeScript",
+                    "Vuetify",
+                    "Django",
+                    "Keycloak"
+                ]
+            },
+            {
+                "title": "CMS Monterrey",
+                "description": "Manejador de contenido de todas las landingpages del Gobierno de Monterrey.",
+                "url": "https://www.monterrey.gob.mx/",
+                "image": "https://i.imgur.com/oy5Ynpc.png",
+                "tags": [
+                    "Vue3",
+                    "TypeScript",
+                    "Quasar",
+                    "Django",
+                    "Wagtail"
+                ]
+            },
+            {
+                "title": "AccesoJoven",
+                "description": "Acceso Joven es una plataforma y tarjeta digital que te permite estar conectado con el Instituto de la Juventud Regia en todo momento.",
+                "url": "https://accesojoven.monterrey.gob.mx/",
+                "image": "https://i.imgur.com/fMfaeX7.png",
+                "tags": [
+                    "Vue3",
+                    "JavaScript",
+                    "Quasar",
+                    "Django",
+                    "Wagtail"
+                ]
+            },
+            {
+                "title": "mira Mty",
+                "description": "Es un servicio que permite interactuar con los mapas con información pública del Gobierno de Monterrey.",
+                "url": "https://mira.monterrey.gob.mx/",
+                "image": "https://i.imgur.com/NCsH8Ke.png",
+                "tags": [
+                    "Vue3",
+                    "JavaScript",
+                    "Quasar",
+                    "OpenLayers"
+                ]
+            },
+            {
+                "title": "mide Mty",
+                "description": "Es un servicio donde se almacenan todos los datos y mapas del Gobierno de Monterrey y a su vez permite su publicación para el ciudadano.",
+                "url": "https://mide.monterrey.gob.mx/",
+                "image": "https://i.imgur.com/1mTCT69.png",
+                "tags": [
+                    "MapStoreClient",
+                    "Geonode",
+                    "React",
+                    "Django"
+                ]
+            },
+            {
+                "title": "Sanamente Mty",
+                "description": "Es un servicio que brinda información a la ciudadanía sobre la salud mental a la vez que permite al ciudadano acceder a terapia y actividades brindadas por el Gobierno de Monterrey.",
+                "url": "https://sanamente.monterrey.gob.mx/",
+                "image": "https://i.imgur.com/D0bmBK6.png",
+                "tags": [
+                    "Vue3",
+                    "JavaScript",
+                    "Quasar",
+                    "Django",
+                    "Wagtail"
+                ]
+            }
+        ]
+    },
+    "contact": {
+        "title": "Contáctame",
+        "description": "¡Me encantaría saber de ti! Ya sea que tengas preguntas, quieras discutir un proyecto o simplemente conectar, no dudes en ponerte en contacto. Siempre estoy abierta a nuevas oportunidades y colaboraciones.",        "contacts": [
+            {
+                "title": "GitHub",
+                "url": "https://github.com/DraCaligari"
+            },
+            {
+                "title": "LinkedIn",
+                "url": "https://www.linkedin.com/in/tgarciag/"
+            },
+            {
+                "title": "Correo",
+                "url": "mailto:tatianagarcia0695@hotmail.com"
+            },
+            {
+                "title": "WhatsApp",
+                "url": "https://wa.me/+528123729703"
+            }
+        ]
+    }
+}
